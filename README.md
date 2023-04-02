@@ -21,8 +21,9 @@
   <br/><br/>
   <p>🎈Github stats🎈</p>
   <img src="https://github-readme-stats.vercel.app/api?username=KHS96&show_icons=true"><br><br>
-  <p>✨Most Used✨</p>
+  <h2>✨Most Used✨</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHS96&layout=compact"><br><br>
-  
+  <p></p>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesu32)](https://solved.ac/heesu32)
   
 </div>
