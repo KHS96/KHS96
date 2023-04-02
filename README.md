@@ -24,6 +24,6 @@
   <p>✨Most Used✨</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHS96&layout=compact"><br><br>
   <p>🖥 Algorithm</p>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heesu32)](https://solved.ac/heesu32/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heesu32)](https://solved.ac/heesu32)
   
 </div>
