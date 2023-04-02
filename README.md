@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HeeSu&fontSize=90)
+
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=HeeSu%20World!&desc=My GitHub Profile%20capsule%20render)
 
