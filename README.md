@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notionb&logoColor=white"/>
-  <br/>
+  <br/><br/><br/><br/>
+  <p>🎈Github stats🎈</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KHS96&show_icons=true"><br><br>
+  <p>✨Most Used✨</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHS96&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KHS96&show_icons=true">
   
   
 </div>
